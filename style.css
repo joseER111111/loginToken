@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa; /* Cambiamos el color de fondo de la página */
+}
+
+.navbar {
+    background-color: #dc3545; /* Cambiamos el color del fondo del navbar a rojo */
+}
+
+.navbar-brand,
+.navbar a {
+    color: white !important; /* Cambiamos el color del texto del navbar a blanco */
+}
+
+ion-icon {
+    font-size: 2rem; /* Aumentamos el tamaño del ícono */
+    color: white; /* Cambiamos el color del ícono a blanco */
+    margin-left: 10px; /* Añadimos margen izquierdo al ícono para espaciarlo del texto */
+}
